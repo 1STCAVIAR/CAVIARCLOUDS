@@ -18,5 +18,5 @@
         $('input[name="hobby[]"]').unsel();
 ```
 
-
+注意:要先引入jquery才能使用!
 
